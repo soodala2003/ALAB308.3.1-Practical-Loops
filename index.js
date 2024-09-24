@@ -13,5 +13,6 @@ for (let num = 1; num <= 100; num++) {
     }
 }
 
-// Part 2: Practical Exercises
-for (let n = 1; n )
+// Part 2: Prime Time
+
+
