@@ -12,3 +12,6 @@ for (let num = 1; num <= 100; num++) {
         console.log(num);   
     }
 }
+
+// Part 2: Practical Exercises
+for (let n = 1; n )
